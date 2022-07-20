@@ -1,8 +1,9 @@
-### Hi! I'm João Gonçalves a Junior Full-Stack Developer 👋
+### João Gonçalves Full-Stack Developer 👋
 
+-  📍 Lisbon, Portugal
 - 🔭 Currently looking for a job
 - 🌱 Learning TypeScript
-- 💬 Feel free to contact me
+- 🎓 Background in design
 - 💼 [https://www.linkedin.com/in/joaopdg](https://www.linkedin.com/in/joaopdg/)
 
 ##### Recent Projects: [PlayHack](https://playhack.netlify.app/) • [Streets of Tekken](https://joaopdg.github.io/project_1_game/) • [Switch](https://project-fullstackapp.herokuapp.com/)
