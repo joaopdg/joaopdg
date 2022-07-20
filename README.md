@@ -1,10 +1,11 @@
 ### Hi! I'm João Gonçalves a Junior Full-Stack Developer 👋
 
-🔭 I'm currently looking for a job
-💬 Feel free to contact me
-💼 [https://www.linkedin.com/in/joaopdg](https://www.linkedin.com/in/joaopdg/)
+- 🔭 Currently looking for a job
+- 🌱 Learning TypeScript
+- 💬 Feel free to contact me
+- 💼 [https://www.linkedin.com/in/joaopdg](https://www.linkedin.com/in/joaopdg/)
 
-##### Recent Projects: [PlayHack](https://playhack.netlify.app/) ▫️ [Streets of Tekken](https://joaopdg.github.io/project_1_game/) ▫️ [Switch](https://project-fullstackapp.herokuapp.com/)
+##### Recent Projects: [PlayHack](https://playhack.netlify.app/) • [Streets of Tekken](https://joaopdg.github.io/project_1_game/) • [Switch](https://project-fullstackapp.herokuapp.com/)
 
 <!--
 **joaopdg/joaopdg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
