@@ -1,7 +1,6 @@
 ### João Gonçalves Full-Stack Developer 👋
 
 -  📍 Lisbon, Portugal
-- 🔭 Currently looking for a job
 - 🎓 Background in design
 - 💼 [https://www.linkedin.com/in/joaopdg](https://www.linkedin.com/in/joaopdg/)
 
