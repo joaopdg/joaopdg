@@ -5,8 +5,8 @@
 - 💼 Working as Teacher Assistant at Ironhack Portugal
 - 📫 [https://www.linkedin.com/in/joaopdg](https://www.linkedin.com/in/joaopdg/)
 
+##
 ### Recent Projects: [PlayHack](https://playhack.netlify.app/) • [Streets of Tekken](https://joaopdg.github.io/project_1_game/) • [Switch](https://switch.cyclic.app/)
-
 ##
 
 ![codewars](https://www.codewars.com/users/JPDG96/badges/small)
