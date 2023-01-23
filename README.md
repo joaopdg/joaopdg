@@ -6,6 +6,9 @@
 
 #### Recent Projects: [PlayHack](https://playhack.netlify.app/) • [Streets of Tekken](https://joaopdg.github.io/project_1_game/) • [Switch](https://switch.cyclic.app/)
 
+(https://www.codewars.com/users/JPDG96/badges/large)
+
+
 <!--
 **joaopdg/joaopdg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
