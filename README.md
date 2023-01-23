@@ -7,9 +7,9 @@
 
 ##
 ### Recent Projects:
-- [PlayHack](https://playhack.netlify.app/) - Gaming hub platform
-- [Streets of Tekken](https://joaopdg.github.io/project_1_game/) - 2D Beat'em up game
-- [Switch](https://switch.cyclic.app/) - Second-hand goods exchange platform
+[PlayHack](https://playhack.netlify.app/) - Gaming hub platform
+[Streets of Tekken](https://joaopdg.github.io/project_1_game/) - 2D Beat'em up game
+[Switch](https://switch.cyclic.app/) - Second-hand goods exchange platform
 ##
 
 ![codewars](https://www.codewars.com/users/JPDG96/badges/small)
