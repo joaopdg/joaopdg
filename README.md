@@ -1,8 +1,6 @@
 ##
 ### Hi! I'm João 👋
--  📍 Lisbon, Portugal
 - 🎓 Full-Stack Developer 
-- 💼 Working as Teacher Assistant at Ironhack Portugal
 - 📫 [Contact me through Linkedin](https://www.linkedin.com/in/joaopdg/)
 
 ##
